@@ -29,14 +29,14 @@
 
 .text14{font-family: "lato", sans-serif; font-size: 14px;color: #ffffff; font-weight: 700; line-height: 44px; text-align: center; }
 
-.list li::before{content: ""; width: 16px; height: 16px; display: inline-block; background: url("../img/21.png") 0 2px /16px no-repeat; margin: 0 10px 0 -25px; padding-left: -32px;}
+.list li::before{content: ""; width: 16px; height: 16px; display: inline-block; background: url("../img/21.png") 0 2px /16px no-repeat; margin: 0 10px 0 -25px;}
 
 .block2:hover{color: #60f146;}
 .block2:active{color: #070bfa;}
 
 .last-margin{margin-bottom: 50px;}
 
-.text36{font-family: "Taviraj", serif; font-size: 36px;color: #333333; font-weight: 400; letter-spacing: 2%; line-height: 40px;}
+.text36{font-family: "Taviraj", serif; font-size: 36px;color: #333333; font-weight: 400; letter-spacing: 2px; line-height: 40px;}
 
 .text36::after{content: ""; display: block; background-color: #333333; height: 1px; width: 65px; margin: 8px 0 0px 0px;}
 
